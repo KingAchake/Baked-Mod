@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "baked",
+  "version": "1.0.0",
+
+  "name": "Baked",
+  "description": "Baked Goods",
+  "authors": [
+    "Achakè1"
+  ],
+  "Translators": [
+  ],
+
+  "license": "CC0-1.0",
+  "icon": "assets/baked/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.github.merpous.baked.BakedMod"
+    ],
+    "client": [
+      "com.github.merpous.baked.BakedClient"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.19.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "Unwieldy by MerchantPug"
+  }
+}
