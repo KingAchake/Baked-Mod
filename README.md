@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# Baked Mod
 
-## Setup
+## Description
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Just adds basic food items
 
-## License
+## Items
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+So far it adds apple pie, blueberry pie, baked apples, & honey candy.
